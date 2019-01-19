@@ -39,17 +39,17 @@ yarn run lint
 #### 项目演示截图
 
 ##### 首页布局展示
-[![首页布局](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/1.png)]
+![首页布局](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/1.png)
 
 ##### 类型搜索展示
-[![类型搜索](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/2.png)]
+![类型搜索](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/2.png)
 
 ##### 时间搜索展示
-[![时间搜索](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/3.png)]
+![时间搜索](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/3.png)
 
 ##### 查看详细展示
-[![查看详细](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/4.png)]
+![查看详细](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/4.png)
 
 ##### 加任务展示
-[![添加任务](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/5.png)]
+![添加任务](https://github.com/BetaLeev/readme-project-gif/blob/master/website-order-manager-img/5.png)
 
