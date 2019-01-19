@@ -28,7 +28,7 @@ yarn run lint
 ### 到了大家熟悉的中文介绍了
 
 ### 项目介绍 
->>>>> 技术栈
+>>>> 技术栈
  1 vue
  2 vue-router
  3 vuex
