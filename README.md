@@ -29,9 +29,9 @@ yarn run lint
 
 ### 项目介绍 
 >>>>> 技术栈
-> 1 vue
-> 2 vue-router
-> 3 vuex
+ 1 vue
+ 2 vue-router
+ 3 vuex
 
 >>>> 前端UI,ELEMENT
 >>>> 涉及到内部百分之90以上的组件使用，对其进行了充分了的解
